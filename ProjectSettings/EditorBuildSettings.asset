@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Particles.unity
+    guid: 5f3fedbdb616a4e4a8fa247bee0965a3
+  - enabled: 1
+    path: Assets/Shaders/Dissolve/Dissolve.unity
+    guid: 73c1a39670bac3d4ba4884395b377b0c
+  - enabled: 1
+    path: Assets/Shaders/Force Field/FF.unity
+    guid: 1cdd1873607c75340a4eae8a1380af7b
+  - enabled: 1
+    path: Assets/Shaders/Hologram/Hologram.unity
+    guid: 4ac5e4fecad3f5a4cb3c253b345fa04a
+  - enabled: 1
+    path: Assets/Shaders/Snow/Snow.unity
+    guid: 565d12e63cf987e4f80eb0ade4915ce6
+  - enabled: 1
+    path: Assets/Shaders/Water/Water.unity
+    guid: d48789ed2a06c36479e6869f91aa8bbf
   m_configObjects: {}
