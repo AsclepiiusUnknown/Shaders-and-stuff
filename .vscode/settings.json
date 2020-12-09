@@ -13,7 +13,7 @@
     "files.autoSave": "onFocusChange",
     //*File Explorer
     "explorer.sortOrder": "modified",
-    //*Cursor
+    //*Cursor 
     "editor.cursorStyle": "underline",
     "editor.cursorBlinking": "phase",
     //*Intellisense

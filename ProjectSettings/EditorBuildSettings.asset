@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Dynamic Water/Scenes/WaterSim.unity
+    guid: fa8d864b03ad92d468c2467b245144a9
+  - enabled: 1
     path: Assets/Particles.unity
     guid: 5f3fedbdb616a4e4a8fa247bee0965a3
   - enabled: 1
